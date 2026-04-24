@@ -22,7 +22,7 @@ let stringThree = "";
 // Your task: Assign the length of each string to the corresponding variable
 let lengthOne;   // 14
 let lengthTwo;   // 10
-let lengthThree; // 2
+let lengthThree; // 0
 
 // Your code here
 
